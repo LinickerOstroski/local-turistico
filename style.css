@@ -11,7 +11,7 @@ body{
 }
 
 #page{
-  padding: 88px 80px;
+  padding: 88px 80px 58px;
   box-sizing: border-box;
 }
 
@@ -20,7 +20,7 @@ body{
   font-size: 16px;
 }
 
-img{
+#page img{
   width: 100%;
   border-radius: 28px;
 }
@@ -88,4 +88,68 @@ hr{
   padding: 0px;
 }
 
+#templo-beomeo h2{
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
 
+#templo-beomeo p{
+  padding-bottom: 32px;
+  color: #333333;
+}
+
+#templo-beomeo ul{
+  padding: 0px 28px 48px;
+  font-weight: bold;
+}
+
+#templo-beomeo li p{
+  color: #0C51A7;
+  padding: 0px;
+}
+
+#parque-yongdusan h2{
+  padding-top: 20px;
+  padding-bottom: 4px;
+}
+
+
+#parque-yongdusan p{
+  padding-bottom: 32px;
+  color: #333333;
+}
+
+#parque-yongdusan ul{
+  padding: 0px 28px 40px;
+  font-weight: bold;
+}
+
+#parque-yongdusan .casais{
+  color: #0C51A7;
+  padding: 0px;
+}
+
+#parque-yongdusan  .familias{
+  color: #E5245E;
+  padding: 0px;
+}
+
+#parque-yongdusan  .orcamento{
+  color: #E95E10;
+  padding: 0px;
+}
+
+#mensagem p{
+  text-align: center;
+  padding-top: 40px;
+  color: #333333;
+}
+
+footer p{
+  text-align: center;
+  padding-bottom: 48px;
+}
+
+footer img{
+  vertical-align: middle;
+}
