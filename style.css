@@ -22,6 +22,7 @@ body{
 
 img{
   width: 100%;
+  border-radius: 28px;
 }
 
 header h4{
