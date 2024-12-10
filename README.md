@@ -1,6 +1,14 @@
-<h1>Página de Local Turístico</h1>
+# Local Turistico
 
-<p>Esse é um dos projetos que realizei junto com o curso da RocketSeat com objetivo de aprender 
-  HTML e aplicar estilos com CSS. Fique a vontade para explorar o código e sugerir melhorias.</p>
-<img src="./git-readme-img/screenshot.png" alt="Foto do projeto."> 
-  
+O Projeto Local Turístico foi desenvolvido como parte de um desafio prático do curso Fullstack da Rocketseat, com o objetivo de aplicar conhecimentos em HTML e CSS na criação de uma página interativa e estilizada.
+
+<img src="./gitimg.jpg">
+
+## 🛠️ Construído com
+
+* <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> Construção da estrutura
+* <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"> Estilização da página
+
+## ✒️ Autores
+
+* **Línicker Ostroski Mota** 
